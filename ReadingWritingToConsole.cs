@@ -10,6 +10,7 @@ public class ReadingWritingToConsole
             string LastName = Console.ReadLine();
 
             Console.WriteLine("Hello {0}, {1}", FirstName,LastName);
+            
         }
     }
 
