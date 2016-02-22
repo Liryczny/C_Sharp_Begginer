@@ -24,7 +24,6 @@ public class SwitchStatements
                     Console.WriteLine("Your choice {0} is invalid", UserChoice);
                     break;
             }
-
             Decide:
             Console.WriteLine("Do you want to buy another coffee - Yes or No?");
             string UserDecision = Console.ReadLine();
